@@ -6,6 +6,7 @@ Custom Homebrew tap for installing mohith-labs applications.
 
 ```bash
 brew tap mohith-labs/tap
+brew trust --cask mohith-labs/tap/netspeed
 ```
 
 ## Available Casks
