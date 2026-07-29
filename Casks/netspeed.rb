@@ -7,7 +7,7 @@ cask "netspeed" do
   desc "Lightweight macOS menu bar app that displays real-time network speed"
   homepage "https://github.com/mohith-labs/MacNetspeed"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "NetSpeed.app"
 
